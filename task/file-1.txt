@@ -1,3 +1,5 @@
 This is file 1. I modified this file.
 This edit an in branch 1.
 I am coding this file again after unStashing the file in branch edit-1 .
+This edit is in edit-2 branch.
+

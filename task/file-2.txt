@@ -1,3 +1,5 @@
 This is file 2 and I have added one line in this file.
 this edit an in file 2.
 This is stash 2.
+I am at branch edit-2 .
+
