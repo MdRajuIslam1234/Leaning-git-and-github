@@ -3,3 +3,5 @@ This edit an in branch 1.
 I am coding this file again after unStashing the file in branch edit-1 .
 This edit is in edit-2 branch.
 
+We want to see that is changes appear in remote repo.
+
